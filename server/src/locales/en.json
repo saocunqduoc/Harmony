@@ -1,0 +1,149 @@
+{
+    "auth": {
+      "register": {
+        "success": "Registration successful",
+        "error": "Registration failed"
+      },
+      "login": {
+        "success": "Login successful",
+        "error": "Invalid credentials"
+      },
+      "forgotPassword": {
+        "success": "Password reset email sent",
+        "error": "Failed to send password reset email"
+      },
+      "resetPassword": {
+        "success": "Password has been reset",
+        "error": "Failed to reset password"
+      },
+      "changePassword": {
+        "success": "Password changed successfully",
+        "error": "Failed to change password"
+      }
+    },
+    "user": {
+      "profile": {
+        "getSuccess": "Profile retrieved successfully",
+        "updateSuccess": "Profile updated successfully",
+        "updateError": "Failed to update profile"
+      },
+      "avatar": {
+        "uploadSuccess": "Avatar uploaded successfully",
+        "uploadError": "Failed to upload avatar"
+      }
+    },
+    "service": {
+      "getAll": {
+        "success": "Services retrieved successfully"
+      },
+      "getOne": {
+        "success": "Service retrieved successfully",
+        "error": "Service not found"
+      },
+      "create": {
+        "success": "Service created successfully",
+        "error": "Failed to create service"
+      },
+      "update": {
+        "success": "Service updated successfully",
+        "error": "Failed to update service"
+      },
+      "delete": {
+        "success": "Service deleted successfully",
+        "error": "Failed to delete service"
+      },
+      "review": {
+        "addSuccess": "Review added successfully",
+        "addError": "Failed to add review",
+        "getSuccess": "Reviews retrieved successfully"
+      }
+    },
+    "business": {
+      "getAll": {
+        "success": "Businesses retrieved successfully"
+      },
+      "getOne": {
+        "success": "Business retrieved successfully",
+        "error": "Business not found"
+      },
+      "create": {
+        "success": "Business created successfully",
+        "error": "Failed to create business"
+      },
+      "update": {
+        "success": "Business updated successfully",
+        "error": "Failed to update business"
+      },
+      "delete": {
+        "success": "Business deleted successfully",
+        "error": "Failed to delete business"
+      }
+    },
+    "booking": {
+      "create": {
+        "success": "Booking created successfully",
+        "error": "Failed to create booking"
+      },
+      "update": {
+        "success": "Booking updated successfully",
+        "error": "Failed to update booking"
+      },
+      "cancel": {
+        "success": "Booking cancelled successfully",
+        "error": "Failed to cancel booking"
+      },
+      "getAll": {
+        "success": "Bookings retrieved successfully"
+      },
+      "getOne": {
+        "success": "Booking retrieved successfully",
+        "error": "Booking not found"
+      }
+    },
+    "payment": {
+      "create": {
+        "success": "Payment created successfully",
+        "error": "Failed to create payment"
+      },
+      "process": {
+        "success": "Payment processed successfully",
+        "error": "Failed to process payment"
+      },
+      "getAll": {
+        "success": "Payments retrieved successfully"
+      },
+      "getOne": {
+        "success": "Payment retrieved successfully",
+        "error": "Payment not found"
+      }
+    },
+    "admin": {
+      "dashboard": {
+        "success": "Dashboard data retrieved successfully"
+      },
+      "users": {
+        "success": "Users retrieved successfully"
+      },
+      "businesses": {
+        "success": "Businesses retrieved successfully"
+      },
+      "services": {
+        "success": "Services retrieved successfully"
+      },
+      "bookings": {
+        "success": "Bookings retrieved successfully"
+      },
+      "payments": {
+        "success": "Payments retrieved successfully"
+      }
+    },
+    "errors": {
+      "server": "Internal server error",
+      "notFound": "Resource not found",
+      "unauthorized": "Unauthorized access",
+      "forbidden": "Forbidden access",
+      "validation": "Validation error"
+    }
+  }
+  
+  
