@@ -1,0 +1,149 @@
+{
+    "auth": {
+      "register": {
+        "success": "Đăng ký thành công",
+        "error": "Đăng ký thất bại"
+      },
+      "login": {
+        "success": "Đăng nhập thành công",
+        "error": "Thông tin đăng nhập không hợp lệ"
+      },
+      "forgotPassword": {
+        "success": "Email đặt lại mật khẩu đã được gửi",
+        "error": "Không thể gửi email đặt lại mật khẩu"
+      },
+      "resetPassword": {
+        "success": "Mật khẩu đã được đặt lại",
+        "error": "Không thể đặt lại mật khẩu"
+      },
+      "changePassword": {
+        "success": "Thay đổi mật khẩu thành công",
+        "error": "Không thể thay đổi mật khẩu"
+      }
+    },
+    "user": {
+      "profile": {
+        "getSuccess": "Lấy thông tin hồ sơ thành công",
+        "updateSuccess": "Cập nhật hồ sơ thành công",
+        "updateError": "Không thể cập nhật hồ sơ"
+      },
+      "avatar": {
+        "uploadSuccess": "Tải lên ảnh đại diện thành công",
+        "uploadError": "Không thể tải lên ảnh đại diện"
+      }
+    },
+    "service": {
+      "getAll": {
+        "success": "Lấy danh sách dịch vụ thành công"
+      },
+      "getOne": {
+        "success": "Lấy thông tin dịch vụ thành công",
+        "error": "Không tìm thấy dịch vụ"
+      },
+      "create": {
+        "success": "Tạo dịch vụ thành công",
+        "error": "Không thể tạo dịch vụ"
+      },
+      "update": {
+        "success": "Cập nhật dịch vụ thành công",
+        "error": "Không thể cập nhật dịch vụ"
+      },
+      "delete": {
+        "success": "Xóa dịch vụ thành công",
+        "error": "Không thể xóa dịch vụ"
+      },
+      "review": {
+        "addSuccess": "Thêm đánh giá thành công",
+        "addError": "Không thể thêm đánh giá",
+        "getSuccess": "Lấy danh sách đánh giá thành công"
+      }
+    },
+    "business": {
+      "getAll": {
+        "success": "Lấy danh sách doanh nghiệp thành công"
+      },
+      "getOne": {
+        "success": "Lấy thông tin doanh nghiệp thành công",
+        "error": "Không tìm thấy doanh nghiệp"
+      },
+      "create": {
+        "success": "Tạo doanh nghiệp thành công",
+        "error": "Không thể tạo doanh nghiệp"
+      },
+      "update": {
+        "success": "Cập nhật doanh nghiệp thành công",
+        "error": "Không thể cập nhật doanh nghiệp"
+      },
+      "delete": {
+        "success": "Xóa doanh nghiệp thành công",
+        "error": "Không thể xóa doanh nghiệp"
+      }
+    },
+    "booking": {
+      "create": {
+        "success": "Đặt lịch thành công",
+        "error": "Không thể đặt lịch"
+      },
+      "update": {
+        "success": "Cập nhật lịch hẹn thành công",
+        "error": "Không thể cập nhật lịch hẹn"
+      },
+      "cancel": {
+        "success": "Hủy lịch hẹn thành công",
+        "error": "Không thể hủy lịch hẹn"
+      },
+      "getAll": {
+        "success": "Lấy danh sách lịch hẹn thành công"
+      },
+      "getOne": {
+        "success": "Lấy thông tin lịch hẹn thành công",
+        "error": "Không tìm thấy lịch hẹn"
+      }
+    },
+    "payment": {
+      "create": {
+        "success": "Tạo thanh toán thành công",
+        "error": "Không thể tạo thanh toán"
+      },
+      "process": {
+        "success": "Xử lý thanh toán thành công",
+        "error": "Không thể xử lý thanh toán"
+      },
+      "getAll": {
+        "success": "Lấy danh sách thanh toán thành công"
+      },
+      "getOne": {
+        "success": "Lấy thông tin thanh toán thành công",
+        "error": "Không tìm thấy thanh toán"
+      }
+    },
+    "admin": {
+      "dashboard": {
+        "success": "Lấy dữ liệu bảng điều khiển thành công"
+      },
+      "users": {
+        "success": "Lấy danh sách người dùng thành công"
+      },
+      "businesses": {
+        "success": "Lấy danh sách doanh nghiệp thành công"
+      },
+      "services": {
+        "success": "Lấy danh sách dịch vụ thành công"
+      },
+      "bookings": {
+        "success": "Lấy danh sách lịch hẹn thành công"
+      },
+      "payments": {
+        "success": "Lấy danh sách thanh toán thành công"
+      }
+    },
+    "errors": {
+      "server": "Lỗi máy chủ nội bộ",
+      "notFound": "Không tìm thấy tài nguyên",
+      "unauthorized": "Truy cập không được phép",
+      "forbidden": "Truy cập bị cấm",
+      "validation": "Lỗi xác thực"
+    }
+  }
+  
+  
